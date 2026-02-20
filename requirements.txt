@@ -1,0 +1,6 @@
+Django>=3.2,<5
+django-environ
+requests
+beautifulsoup4
+facebook-scraper
+youtube-dl
